@@ -1,0 +1,12 @@
+.venv
+video_input
+**/__pycache__/**
+data_image
+frames
+data_coordinate
+data_for_frame
+background
+output_video
+model_detect_vehicle.pt
+output_synopsis.mp4
+output_video.mp4
